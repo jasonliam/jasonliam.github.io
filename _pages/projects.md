@@ -22,7 +22,7 @@ redirect_from:
 - Designed and managed a large number of neural network experiments in order to improve model performance
 - Published results as my master's thesis
 
-**Scaling Satellite Imagery Deep Learning with Distributed Processing.**
+**Scaling Satellite Imagery Deep Learning with Distributed Processing (2019)**
 - An SDSC project aiming to scale an existing deep learning framework for processing satellite imagery to multiple systems without losing performance
 - Designed and implemented different distributed processing systems based on Dask (Python) or the Apache Spark stack
 - Designed streamlined processes to deploy abovementioned systems to either an existing distributed computer cluster or bare-metal machines. 
