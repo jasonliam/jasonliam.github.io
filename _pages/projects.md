@@ -22,11 +22,19 @@ redirect_from:
 - Designed and managed a large number of neural network experiments in order to improve model performance
 - Published results as my master's thesis
 
+**Scaling Satellite Imagery Deep Learning with Distributed Processing.**
+- An SDSC project aiming to scale an existing deep learning framework for processing satellite imagery to multiple systems without losing performance
+- Designed and implemented different distributed processing systems based on Dask (Python) or the Apache Spark stack
+- Designed streamlined processes to deploy abovementioned systems to either an existing distributed computer cluster or bare-metal machines. 
+- Managed and ran extensive experiments to benchmark different design approaches and different distributed processing platforms
+- Published results in IEEE Big Data 2019
+
 **Understanding a Rapidly Expanding Refugee Camp Using CNNs and Satellite Imagery (2019)**
 - A joint project between the UCSD School of Global Policy and Strategy and the San Diego Supercomputer center. The project analyzes satellite imagery of the Kutupalong (Rohingya) refugee camp in Bangladesh to uncover the condition of the site and its populace. 
 - Applied a modified pipeline from the UNICEF project and coupled it with multi-staged K-Means, to adapt the system for analyzing changes in the refugee camp over time.
 - Refined the image analysis system to be production-ready
 - Provided on- and off-site support for project personnel
+- Published results in IEEE eScience 2019
 
 **Land Cover Analysis (2019)**
 - An SDSC project that aims to provide a detailed land cover map of southern California, identifying the type of terrain at each point on the map. This provides state officials with crucial information pertaining to wildfire prevention and protection.
@@ -40,6 +48,7 @@ redirect_from:
 - Wrote part of the main data pipeline in the real-time data processing system
 - Developed key algorithms which automatically classify and analyze weather pattern clusters
 - Wrote part of the automation framework for data processing
+- Published results in IEEE Big Data 2017
 
 **Personal Machine Learning Projects**
 - iMGNE: an LSTM-based piano pattern learner operating in the audio frequency domain
