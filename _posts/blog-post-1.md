@@ -1,0 +1,10 @@
+---
+title: "Start: Jiaxin's Research Journal"
+date: 2020-08-26
+permalink: /posts/2020/08/blog-post-1/
+tags:
+  - research jounal
+  - introduction
+---
+
+Hi all, this is a marker post for my research journals for the course INFSCI 3005. 
